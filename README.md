@@ -3,6 +3,8 @@
 ## Introduction
 Welcome to my cybersecurity portfolio! I am a third-year Computer Science undergrad at IIT Kanpur with a strong passion for cybersecurity. This repository showcases my journey in the field, including a Security Audit report from the Google Cybersecurity Professional Certificate course and Python projects focused on ethical hacking.
 
+## Courses and Certifications
+- Google Cybsersecurity Professional Certificate (Ongoing)
 ## Contact
 Feel free to reach out for collaborations, questions, or discussions related to cybersecurity.
 
