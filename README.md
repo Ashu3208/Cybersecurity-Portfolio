@@ -6,7 +6,7 @@ Welcome to my cybersecurity portfolio! I am a third-year Computer Science underg
 ## Contact
 Feel free to reach out for collaborations, questions, or discussions related to cybersecurity.
 
-[LinkedIn](https://www.linkedin.com/in/ashuagr/) | [Email](ashutoshagrawal822@gmail.com) | [Twitter](https://twitter.com/ashutoshagr822)
+[LinkedIn](https://www.linkedin.com/in/ashuagr/) | [Email](mailto:ashutoshagrawal822@gmail.com) | [Twitter](https://twitter.com/ashutoshagr822)
 
 ---
 
